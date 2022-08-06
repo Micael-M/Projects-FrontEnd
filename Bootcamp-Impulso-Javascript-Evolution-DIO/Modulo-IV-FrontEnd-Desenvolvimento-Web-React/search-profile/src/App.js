@@ -1,10 +1,11 @@
-import './App.css';
+import Layout from "./components/layout";
 
-function App() {
+const  App = () => {
   return (
-    <div className="App">
+    <section >
+      <Layout />
       Bem vindo(a) ao projeto search profile com api github
-    </div>
+    </section>
   );
 }
 
