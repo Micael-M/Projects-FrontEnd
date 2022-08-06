@@ -1,4 +1,4 @@
-<h1>👨🏾‍💻🤳 SEARCH PROFILE - GITHUB API 👨🏾‍💻🤳</h1>
+<h1 align="center">👨🏾‍💻🤳 SEARCH PROFILE - GITHUB API 👨🏾‍💻🤳</h1>
 
 ### Qual o propósito?
 Criar uma aplicação front-end com React, aplicando os conhecimentos e habilidades desenvolvidas durante o bootcampo Impulso JavaScript.
