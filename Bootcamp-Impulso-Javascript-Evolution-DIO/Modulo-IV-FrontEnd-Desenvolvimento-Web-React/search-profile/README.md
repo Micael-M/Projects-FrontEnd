@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+<h1>👨🏾‍💻🤳 SEARCH PROFILE - GITHUB API 👨🏾‍💻🤳</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Qual o propósito?
+Criar uma aplicação front-end com React, aplicando os conhecimentos e habilidades desenvolvidas durante o bootcampo Impulso JavaScript.
 
-## Available Scripts
+#### Observações
+Esta aplicação está em desenvolvimento. Adicionarei mais informações em breve!
 
-In the project directory, you can run:
+<h1 align="center">💬🗣 Chega mais, vamos conversar 💬🗣</h1>
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<section class="social_networks">
+  <p align="center">Para entrar em contato é só clicar no link abaixo!<br></p>
+  <div align="center" class="contacts" >
+    <a href="https://www.linkedin.com/in/micael-maicon/" target="_blank" alt="Linkedin do autor" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/fcc551d4cff1847eb5a8ee518859132d52149a6db9f37833fdbea96451684bb6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3143314331433f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d303046464646266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f69757269636f6465" style="max-width: 100%;">
+  </a>
+  <a href="https://discord.gg/QXGn6nt2" target="_blank" alt="Discord do autor" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/964caa47c23f903c00d8966c08f42ee934635bae58d018b5e69b9d08f5e41d42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d3143314331433f7374796c653d666f722d7468652d6261646765266c6f676f3d446973636f7264266c6f676f436f6c6f723d303046464646266c696e6b3d68747470733a2f2f646973636f72642e67672f516576444a71437a6159" style="max-width: 100%;">
+  </a>
+  </div>  
+<section>
