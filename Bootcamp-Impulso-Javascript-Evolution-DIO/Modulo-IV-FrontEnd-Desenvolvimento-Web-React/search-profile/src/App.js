@@ -5,7 +5,6 @@ const App = () => {
   return (
     <main>
       <Layout>
-        {/* É a partir daqui que não renderiza nada na página */}
         <Profile />
         <div>Repositórios</div>
         <div>Favoritos</div>
