@@ -10,20 +10,45 @@ export const WrapperInfoUser = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: auto;
+  height: 200px;
   margin-left: 8px;
+
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+  }
+
+  h3 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  h4 {
+    font-size: 16px;
+    font-weight: bold;
+  }
 `;
 
 export const WrapperStatusCounter = styled.div`
   align-items: center;
   display: flex;
+  margin-top: 8px;
 `;
 
 export const WrapperUsername = styled.div`
   align-items: center;
   display: flex;
+  margin-top: 8px;
+
   h3 {
-    margin-right: 8px:
+    margin-right: 8px;
+    
+  }
+
+  a {
+    color:blue;
+    font-weight: bold;
+    font-size: 18px;
   }
 `;
 
