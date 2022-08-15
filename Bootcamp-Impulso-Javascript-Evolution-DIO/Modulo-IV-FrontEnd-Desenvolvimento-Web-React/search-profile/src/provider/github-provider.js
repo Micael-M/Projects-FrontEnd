@@ -1,4 +1,4 @@
-import React, { Children, createContext } from 'react';
+import React, { createContext, useState } from 'react';
 
 export const GithubContext = createContext({
   user: {},
@@ -11,7 +11,7 @@ const GithubProvider = ({children}) => {
     user: {
       login: undefined,
       name: undefined,
-      publicUrl: undefined,
+      html_url: undefined,
       blog: undefined,
       company: undefined,
       location: undefined,
@@ -29,9 +29,9 @@ const GithubProvider = ({children}) => {
 
   }
   return (
-    <GithubProvider.Provider value={contextValue}>
+    <GithubContext.Provider value={contextValue}>
       {children}
-    </GithubProvider.Provider>
+    </GithubContext.Provider>
   )
 };
 
